@@ -1,0 +1,17 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+node_modules
+dev
+prod
+out
+dist
+yarn-error.log
+yarn.lock
+*.zip
+*.exe
+.idea
+package-lock.json
+backup.json
+editor/info.log
+import_tree.json
+import_removed.json
+import_unresolved.json
